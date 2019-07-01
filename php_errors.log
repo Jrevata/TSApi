@@ -1,0 +1,1 @@
+[20-Feb-2019 12:57:04 America/New_York] PHP Fatal error:  Access level to App\Models\UserProject::$timestamps must be public (as in class Illuminate\Database\Eloquent\Model) in /home/ubuntu/workspace/Tecscrumapi/app/Models/UserProject.php on line 0
